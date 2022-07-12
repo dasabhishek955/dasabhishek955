@@ -11,7 +11,7 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 - 💬 Ask me about Computer Vision
 - 📫 How to reach me: [dasabhishek955@gmail.com](mailto:dasabhishek955@gmail.com)
 - 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+- ⚡ Fun fact: Big fan of Technology
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
@@ -37,7 +37,7 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
+![Profile views](https://gpvc.arturio.dev/AbhishekDas96)
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
