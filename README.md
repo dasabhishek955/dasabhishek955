@@ -30,9 +30,9 @@ I'm a 24-year-old boy with an intention to enhance as a Computer Vision engineer
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-| ![](https://github-readme-stats.vercel.app/api?username=AbhishekDas96&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDas96) |
+| ![](https://github-readme-stats.vercel.app/api?username=dasabhishek955&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhishek955) |
 | --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDas96) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=dasabhishek955) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 ## Watch my contribution graph being eaten by a snake🐍
 
