@@ -49,3 +49,5 @@ I'm a 24-year-old boy with an intention to enhance as a Computer Vision engineer
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=dasabhishek955'> <a href="https://github.com/dasabhishek955?tab=followers"><img src="https://img.shields.io/github/followers/dasabhishek955?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
